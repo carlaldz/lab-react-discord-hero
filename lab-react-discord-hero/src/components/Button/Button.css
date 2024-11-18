@@ -1,0 +1,20 @@
+.Button {
+    font-family: 'Roboto', sans-serif;
+    border-radius: 25px;
+    padding: 15px 20px; 
+    border: transparent; 
+    text-align: center; 
+    display: flex; 
+
+    font-size: 15px;  
+
+}
+.Button.download{
+    background-color: white;
+    color: black; 
+}
+
+.Button.browser{
+    background-color:black;  
+    color: white;
+}
